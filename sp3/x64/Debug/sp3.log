@@ -1,0 +1,14 @@
+﻿  sp3.cpp
+C:\Users\st310-02\Desktop\Бондырев ПР-31\sp3\sp3.cpp(20,1): warning C4005: Y: изменение макроопределения
+  C:\Users\st310-02\Desktop\Бондырев ПР-31\sp3\sp3.cpp(12,1):
+  см. предыдущее определение "Y"
+  
+C:\Users\st310-02\Desktop\Бондырев ПР-31\sp3\sp3.cpp(21,1): warning C4005: X: изменение макроопределения
+  C:\Users\st310-02\Desktop\Бондырев ПР-31\sp3\sp3.cpp(13,1):
+  см. предыдущее определение "X"
+  
+C:\Users\st310-02\Desktop\Бондырев ПР-31\sp3\sp3.cpp(23,1): warning C4005: Z: изменение макроопределения
+  C:\Users\st310-02\Desktop\Бондырев ПР-31\sp3\sp3.cpp(11,1):
+  см. предыдущее определение "Z"
+  
+  sp3.vcxproj -> C:\Users\st310-02\Desktop\Бондырев ПР-31\sp3\x64\Debug\sp3.exe
